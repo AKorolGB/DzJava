@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//1) Вычислить n-ое треугольного число (сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
 public class Dz1 {
     public static void main(String[] args) {
         Scanner iScaner = new Scanner(System.in);
